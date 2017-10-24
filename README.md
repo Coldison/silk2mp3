@@ -33,7 +33,7 @@ silk-v3-decoder            (解码silk v3音频文件)
 sudo apt-get install ubuntu-restricted-extras
 ```
 
-##gcc安装
+## gcc安装
 只要是最新的应该就可以
 
 ## Ubuntu16.04下ffmpeg安装
