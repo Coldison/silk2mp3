@@ -50,7 +50,7 @@ source ~/.profile
 ```
 即可全局使用。
 
-##centos6.8下ffmpeg安装
+## centos6.8下ffmpeg安装
 
 参考https://www.2cto.com/kf/201708/672842.html
 这个没有试过。
